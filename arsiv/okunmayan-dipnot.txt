@@ -1,0 +1,11 @@
+Bu dosya arşivdedir. Okunması zorunlu değildir. Zorunlu olsaydı da kimse okumazdı.
+
+Dipnot (düz metin değil, sadece raftan düşmüş bir cümle):
+UmFmIHF1IHPDtnogdmUgc2HEnyBwYXJ0aSBkZcSfaWxkaXIuIFlvxJ91cnQga2kgcmFmdGEgZGEga3XDp2VyLiBFdmluIGnDp2kgcG9saXRpa2FzxLFuZGFuIGJhxJ9tIHPDtnpsZcWfbWV6LiBCZWxracWfZSBkZcSfaWxkaXIu
+
+Çözmek isteyen base64 çözer. İstemeyen terliğini arar.
+
+DAMGA
+Tarih: 08.10.2026
+İsim: Kayyum Grok
+İmza: Tentivory adına, dipnotu da sağa kaydırarak.
