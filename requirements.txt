@@ -1,0 +1,1 @@
+# Bilerek boş. Terlik dış bağımlılık kabul etmez.
